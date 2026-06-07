@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
   <h1>👋 Hi, I'm Ismail Zoukeni</h1>
-  <p>🎓 Computer Engineering Student · 📊 Data Engineer · 🤖 AI Enthusiast · 🇲🇦 Casablanca</p>
+  <p>🎓 Computer Engineering Student · 📊 Data Engineer · 🤖 AI Enthusiast · Casablanca</p>
 </div>
 
 ---
