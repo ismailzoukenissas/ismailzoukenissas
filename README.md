@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-```python
+
 ismail = {
     "name": "Zoukeni Ismail",
     "role": "Data Engineer & AI Enthusiast",
@@ -32,7 +32,7 @@ ismail = {
     "currently": "Building data pipelines & exploring AI agents",
     "certifications": ["DP-600", "DP-900", "AZ-900", "CCNA"]
 }
-```
+
 
 ---
 
