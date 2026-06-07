@@ -97,20 +97,7 @@ ismail = {
 | 🍃 | MongoDB – Base de données NoSQL (Udemy) | 2025 |
 | 📊 | Git et GitHub – 365 Data Science | 2025 |
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailzoukenissas&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailzoukenissas&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ismailzoukenissas&theme=tokyonight&hide_border=true"/>
-</div>
-
----
 
 ## 📬 Let's Connect
 
