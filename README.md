@@ -32,7 +32,7 @@ ismail = {
     "location": "Casablanca, Morocco 🇲🇦",
     "focus": ["Real-time pipelines", "Big Data", "Machine Learning", "RAG / LLMs"],
     "currently": "Building data pipelines & exploring AI agents",
-    "certifications": ["DP-600", "DP-900", "AZ-900", "CCNA"]
+    "certifications": ["DP-600", "DP-900", "AZ-900","AWS" "CCNA"]
 }
 ```
 
