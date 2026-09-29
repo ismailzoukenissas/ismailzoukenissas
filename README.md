@@ -88,7 +88,7 @@ ismail = {
 
 ## 🏆 Certifications
 
-| Badge | Certification | Year |
+| Badge | Certification |
 |---|---|---|
 | 🔷 | DP-600 – Microsoft Fabric Data Engineer Associate | 
 | 🔷 | DP-900 – Microsoft Azure Data Fundamentals | 
