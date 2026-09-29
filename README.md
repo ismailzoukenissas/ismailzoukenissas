@@ -90,13 +90,14 @@ ismail = {
 
 | Badge | Certification | Year |
 |---|---|---|
-| 🔷 | DP-600 – Microsoft Fabric Data Engineer Associate | 2026 |
-| 🔷 | DP-900 – Microsoft Azure Data Fundamentals | 2026 |
-| ☁️ | AZ-900 – Microsoft Azure Fundamentals | 2026 |
-| 🌐 | CCNA – Introduction to Networks (Cisco) | 2025 |
-| 🌐 | Parcours Technicien Réseaux (Cisco) | 2025 |
-| 🍃 | MongoDB – Base de données NoSQL (Udemy) | 2025 |
-| 📊 | Git et GitHub – 365 Data Science | 2025 |
+| 🔷 | DP-600 – Microsoft Fabric Data Engineer Associate | 
+| 🔷 | DP-900 – Microsoft Azure Data Fundamentals | 
+| ☁️ | AZ-900 – Microsoft Azure Fundamentals | 
+| ☁️ | AWS Certified Cloud Practitioner  | 
+| 🌐 | CCNA – Introduction to Networks (Cisco) | 
+| 🌐 | Parcours Technicien Réseaux (Cisco) | 
+| 🍃 | MongoDB – Base de données NoSQL (Udemy) | 
+| 📊 | Git et GitHub – 365 Data Science | 
 
 
 
