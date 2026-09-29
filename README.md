@@ -51,7 +51,7 @@ ismail = {
 
 ## 🚀 Featured Projects
 
-### ✈️ Real-Time Airport Data Pipeline
+### ✈️  Airport Data Pipeline
 > Real-time ingestion, orchestration, object storage & visualization
 
 **Stack:** `Apache Airflow` `PostgreSQL` `MinIO` `Metabase` `Docker` `Python`
